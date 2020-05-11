@@ -2,9 +2,9 @@
 
 $servername = "localhost";
 
-$username = "phpmyadmin";
+$username = "root";
 
-$password = "1234";
+$password = "";
 
 $conn = new mysqli($servername, $username, $password);
 
