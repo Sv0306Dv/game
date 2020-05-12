@@ -2,7 +2,7 @@
 
 if (isset($_COOKIE['cookie_token'])) {
 
-header("Location: http://lab/index.php");
+header("Location: http://95.217.23.70/index.php");
 
 die();
 
@@ -76,7 +76,7 @@ transform: translate(-50%, -50%);
 
 <input type="submit" class="btn btn-success" value="login"> <br>
 
-<a href="http://lab/signup.php"> Sign up now! </a>
+<a href="http://95.217.23.70/signup.php"> Sign up now! </a>
 
 </div>
 
