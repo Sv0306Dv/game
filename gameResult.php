@@ -54,9 +54,9 @@ margin-left: -50;
 
 $servername = "localhost";
 
-$username = "root";
+$username = "sveta";
 
-$password = "";
+$password = "1234";
 
 $conn = new mysqli($servername, $username, $password);
 
