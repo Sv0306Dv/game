@@ -595,7 +595,7 @@ die();
 
 <br>
 
-<br> <a href="http://lab2/index.php"> Concede... </a>
+<br> <a href="http://95.217.23.70/index.php"> Concede... </a>
 
 </div3>
 
