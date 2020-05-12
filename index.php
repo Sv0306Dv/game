@@ -4,7 +4,7 @@ require_once 'database.php';
 
 if (!isset($_COOKIE['cookie_token'])) {
 
-header("Location: http://l95.217.23.70/login.php");
+header("Location: http://95.217.23.70/login.php");
 
 die();
 
