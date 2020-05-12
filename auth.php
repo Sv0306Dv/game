@@ -57,7 +57,7 @@ goto exist;
 
 mysqli_close($link);
 
-header("Location: http://l95.217.23.70/loginDOESNTEXIST.php");
+header("Location: http://95.217.23.70/loginDOESNTEXIST.php");
 
 die();
 
