@@ -10,7 +10,7 @@ $confirm=$_POST['confirm'];
 
 if ($password!=$confirm) {
 
-header("Location: http://lab2/signupNOTEQUAL.php");
+header("Location: http://95.217.23.70/signupNOTEQUAL.php");
 
 die();
 
@@ -26,7 +26,7 @@ $acc = mysqli_fetch_row($result);
 
 if($login==$acc[0]){
 
-header("Location: http://lab2/signupALREXIST.php");
+header("Location: http://95.217.23.70/signupALREXIST.php");
 
 die();
 
@@ -54,7 +54,7 @@ setcookie('cookie_token', $token);
 
 setcookie('cookie_create_time', time());
 
-header("Location: http://lab2/index.php");
+header("Location: http://95.217.23.70/index.php");
 
 mysqli_close($link);
 
