@@ -4,7 +4,7 @@ require_once 'database.php';
 
 if (!isset($_COOKIE['cookie_token'])) {
 
-header("Location: http://lab2/login.php");
+header("Location: http://l95.217.23.70/login.php");
 
 die();
 
@@ -186,7 +186,7 @@ transform: translate(-50%, -50%);
 
 <div1>
 
-<a href="http://lab2/ladder.php"> See the ladder! </a>
+<a href="http://95.217.23.70/ladder.php"> See the ladder! </a>
 
 </div1>
 
@@ -206,7 +206,7 @@ print "Hello, $user!";
 
 <input type="submit" class="btn btn-success" value="PLAY!"> <br>
 
-<br> <a href="http://lab2/auth.php"> Log out... </a>
+<br> <a href="http://95.217.23.70/auth.php"> Log out... </a>
 
 </div>
 
