@@ -50,9 +50,7 @@ transform: translate(-50%, -50%);
 
 <div align = "center">
 
-….. <h4 class="alert alert-danger">Клиента с введенным Login не существует! <br> Пройдите регистрацию! </h4> …. – Для страницы loginDOESNTEXIST.php
 
-….. <h4 class="alert alert-danger">Неверный пароль!</h4> …. – Для страницы loginWRONGPASS.php
 
 <table>
 
