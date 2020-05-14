@@ -38,9 +38,7 @@ transform: translate(-50%, -50%);
 
 <div align="center">
 
-…<h4 class="alert alert-danger">Аккаунт с таким Login уже существует!</h4>… - для страницы signupALREXIST.php
 
-…<h4 class="alert alert-danger">Введенные пароли не совпадают!</h4>… - для страницы signupNOTEQUAL.php
 
 <h4> Заполните все поля: </h4>
 
